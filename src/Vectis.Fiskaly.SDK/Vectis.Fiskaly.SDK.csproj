@@ -16,6 +16,9 @@
     <Description>.NET SDK for Fiskaly SIGN DE v2 API - German fiscal compliance (KassenSichV)</Description>
     <Authors>Anatoliy Yermakov</Authors>
     <Company>Vectis Open Source Community</Company>
+    <PackageProjectUrl>https://github.com/i7aket/Vectis.Fiskaly.SDK</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/i7aket/Vectis.Fiskaly.SDK.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>fiskaly;sign-de;kassensichv;dotnet;sdk;pos</PackageTags>

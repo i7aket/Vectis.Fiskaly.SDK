@@ -16,6 +16,7 @@ It provides strongly typed clients and resilient HTTP pipelines for:
 - Package ID: `Vectis.Fiskaly.SDK`
 - Current channel: `1.0.0-rc.1`
 - Target framework: `net10.0`
+- Repository: `https://github.com/i7aket/Vectis.Fiskaly.SDK`
 
 ## Installation
 
